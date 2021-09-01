@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91fa2589-6f2e-44af-ae18-2d7c7e2af4d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1xXLQkPRsOZHVBXGT2JH35b9Oh9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91fa2589-6f2e-44af-ae18-2d7c7e2af4d6" name="Default Changelist" comment="" />
+      <created>1630496472518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630496472518</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="500" y="258" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1630496913153">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="500" y="258" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1630496913153" />
+    <state x="446" y="163" width="1200" height="880" key="AVDManager" timestamp="1630496952137">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="446" y="163" width="1200" height="880" key="AVDManager/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1630496952137" />
+    <state x="826" y="358" key="FileChooserDialogImpl" timestamp="1630496736259">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="826" y="358" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1630496736259" />
+  </component>
+</project>
